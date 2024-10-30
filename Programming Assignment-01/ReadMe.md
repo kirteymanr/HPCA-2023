@@ -4,7 +4,7 @@ This repository contains the code and report files for **Assignment 1** on branc
 
 ## Repository Structure
 
-- **Folder 1: Codes**
+- **Folder 1: Code**
   - Contains all the code files, including Champsim simulator scripts and additional files for CPI stack analysis.
   
 - **Folder 2: Report and Assignment PDF**
