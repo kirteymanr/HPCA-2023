@@ -9,7 +9,7 @@ This repository contains the code and report files for **Assignment 1** on branc
   
 - **Folder 2: Report and Assignment PDF**
   - `Assignment-01.pdf`: The assignment document outlining the tasks and requirements.
-  - `Report.pdf`: The report summarizing findings, methodology, and performance analysis for branch predictors and CPI stack.
+  - `report`: The report summarizing findings, methodology, and performance analysis for branch predictors and CPI stack.
 
 ## Contents
 
