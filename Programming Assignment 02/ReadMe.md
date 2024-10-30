@@ -54,7 +54,7 @@ Each report includes:
 
 ## Author
 
-Prepared by: [Your Name]
+Prepared by: Kirteyman Singh Rajput
 
 ---
 
