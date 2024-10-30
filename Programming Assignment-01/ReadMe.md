@@ -22,16 +22,16 @@ This repository contains the code and report files for **Assignment 1** on branc
    - Analysis of L1/L2/L3 cache misses, TLB misses, branch misprediction events, and their impact on CPI.
    - Statistical evaluation using RMSE, R2, adjusted R2 values, and residuals.
 
-## Instructions
+## Folders
 
 1. **Branch Prediction**:
-   - Follow the setup instructions in `codes/branch_prediction/README.md` to run simulations with Champsim.
-   - Use the SPEC benchmark traces provided in the `codes/benchmarks/` folder for evaluation.
-
+   - `code/Problem 1(a)`: Code to evaluate (MPKI and IPC) SPEC programs for GSHARE, PERCEPTRON, and TAGE predictor.
+   - `code/Problem 1(b)`: Code to evaluate MPKI and IPC for TAGE predictor for varying history length and table sizes.
+   - `code/Problem 1(c)`: Code to evaluate (MPKI and IPC) for HYBRID predictor.
+   
 2. **CPI Stack Analysis**:
-   - Ensure hardware performance counters are accessible.
-   - Run the scripts in `codes/cpi_stack_analysis/` to collect data and fit the regression model.
-
+   - `code/Problem 2`: Code to obtain CPI stack for programs using hardware performance counters and linear regression.
+   
 ## References
 
 - Champsim Simulator: [GitHub Repository](https://github.com/ChampSim/ChampSim)
@@ -39,7 +39,7 @@ This repository contains the code and report files for **Assignment 1** on branc
 
 ## Author
 
-Prepared by: [Your Name]
+Prepared by: Kirteyman Singh Rajput
 
 ---
 
