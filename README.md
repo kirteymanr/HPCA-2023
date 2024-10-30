@@ -42,7 +42,7 @@ This repository contains solutions for **HPCA Programming Assignments** covering
 
 ## Author
 
-Prepared by: [Your Name]
+Prepared by: Kirteyman Singh Rajput
 
 ---
 
